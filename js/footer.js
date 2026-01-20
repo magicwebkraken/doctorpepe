@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     {
       name: 'DEXTOOLS',
-      url: 'https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon?t=1749598489960'
+      url: 'https://www.dextools.io/app/en/ether/pair-explorer/0x6b4C082EB17155D52fFcb8F6b577a66d9B3db0B6?t=1749598489960'
     }
   ];
   

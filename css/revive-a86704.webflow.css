@@ -1,0 +1,375 @@
+.body {
+  background-color: #000;
+}
+
+.section_hero {
+  background-image: linear-gradient(#000001, #00074a 44%, #00508f);
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+}
+/* General styles for the button container */
+.top-right-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem; /* Space between buttons */
+  padding: 1rem;
+}
+
+/* Button styles */
+.hero-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  background-color: #007bff; /* Example background color */
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.section_about {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+}
+
+.eth_heart {
+  background-color: #1b1b1b;
+  width: auto;
+  height: 60%;
+}
+
+.section_tokenomics {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+}
+
+.cardiograph {
+  background-color: #202020;
+  width: 800px;
+  height: 500px;
+}
+
+.div-block {
+  z-index: 2;
+  color: #ff7c7c;
+  width: 400px;
+  height: 50%;
+  position: absolute;
+  inset: auto auto 0%;
+}
+
+.pepe_tokenomics {
+  background-color: #505050;
+  width: 350px;
+  height: 50%;
+  margin-left: 61.4em;
+  position: absolute;
+  inset: auto auto 0%;
+}
+
+.section_footer {
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  position: relative;
+}
+
+.socials {
+  background-color: #3a3a3a;
+  width: 350px;
+  height: 70px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pepe_hands {
+  background-color: #a0a0a0;
+  width: 500px;
+  height: 45%;
+  position: absolute;
+  inset: auto auto 0%;
+}
+
+.hero_ground {
+  background-color: #001947;
+  background-image: linear-gradient(#002d79, #00002c);
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  width: 100%;
+  height: 30%;
+  display: flex;
+  position: absolute;
+  inset: auto 0% 0%;
+}
+
+.buildings_01 {
+  background-position: 100% 100%;
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  inset: auto;
+}
+
+.div-block-4 {
+  background-color: #001e5d;
+  height: 6%;
+}
+
+.block_buildings_01 {
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 100vw;
+  height: 45%;
+  margin-bottom: 0;
+  display: flex;
+  position: absolute;
+  inset: auto auto 30%;
+  overflow: visible;
+}
+
+.block_buildings_02 {
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 100vw;
+  height: 40%;
+  margin-bottom: 0;
+  display: flex;
+  position: absolute;
+  inset: auto auto 30%;
+  overflow: visible;
+}
+
+.buildings_02 {
+  background-position: 100% 100%;
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  inset: auto;
+}
+
+.block_buildings_03 {
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 100vw;
+  height: 35%;
+  margin-bottom: 0;
+  display: flex;
+  position: absolute;
+  inset: auto auto 30%;
+  overflow: visible;
+}
+
+.buildings_03 {
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  inset: auto;
+}
+
+.div-block-5 {
+  background-color: #0000;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100vw;
+  height: 30%;
+  margin-bottom: 0;
+  display: flex;
+  position: absolute;
+  inset: auto auto 14% 0%;
+}
+
+.div-block-6 {
+  background-color: #0e0e0e;
+  width: 600px;
+  height: 100%;
+}
+
+.block_ambulance {
+  height: 32%;
+  position: absolute;
+  inset: auto auto 17%;
+}
+
+.ambulance {
+  height: 100%;
+  position: relative;
+}
+
+.wheels {
+  height: 100%;
+  position: absolute;
+  inset: 0%;
+}
+
+.logo {
+  height: 18%;
+  position: absolute;
+  inset: auto auto 67%;
+}
+
+.image-2 {
+  z-index: 2;
+  filter: blur(7px);
+  mix-blend-mode: screen;
+  height: 10%;
+  position: absolute;
+  inset: 5% 30.5% auto auto;
+}
+
+.ca {
+  background-color: #03226a;
+  background-image: linear-gradient(-45deg, #030741, #2257c2);
+  border: 2px solid #1d4baf;
+  border-radius: 100px;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 55px;
+  margin: 25px;
+  padding: 0 15px 4px;
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  inset: 0% auto auto 0%;
+}
+
+.ca:hover {
+  border-top-width: 6px;
+  border-bottom-width: 2px;
+}
+
+.image-3 {
+  height: 100%;
+}
+
+.image-4 {
+  height: 50%;
+  margin-left: 50px;
+  position: absolute;
+  inset: auto auto 0% 0%;
+}
+
+.top-right-buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 15px;
+  z-index: 10;
+}
+
+.hero-button {
+  background-color: #03226a;
+  background-image: linear-gradient(-45deg, #030741, #2257c2);
+  border: 2px solid #1d4baf;
+  border-radius: 100px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+
+.hero-button:hover {
+  border-top-width: 6px;
+  border-bottom-width: 2px;
+  transform: translateY(-2px);
+}
+
+@media screen and (max-width: 1100px) {
+  .top-right-buttons {
+    gap: 8px;
+  }
+
+  .hero-button {
+    width: 100px;
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .ca {
+    display: none;
+  }
+
+  .top-right-buttons {
+    flex-wrap: wrap;
+    width: auto;
+    max-width: 230px;
+    right: 10px;
+  }
+
+  .hero-button {
+    width: 100px;
+    font-size: 12px;
+    height: 40px;
+    margin-bottom: 4px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .top-right-buttons {
+    display: none;
+  }
+}
+
+/* Data box styles for scanner */
+.data-box {
+  width: 350px !important;
+  height: 100px !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  padding: 10px !important;
+  overflow: hidden !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  font-size: 16px !important;
+  letter-spacing: 1px !important;
+  text-align: center !important;
+  position: absolute !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+@media screen and (max-width: 768px) {
+  /* Mobile styles for data box and scanner text */
+  .data-box {
+    width: 90% !important;
+    height: 80px !important;
+    font-size: 14px !important;
+  }
+}

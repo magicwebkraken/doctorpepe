@@ -19,13 +19,13 @@ document.addEventListener('DOMContentLoaded', function() {
     caButton.href = "javascript:void(0)";
 
     // Update button text
-    caButton.textContent = "0x7741253d2e8c0b05bf0cabf2bf175c91180c474a";
+    caButton.textContent = "0xcomingsoon";
 
     // Add copy functionality
     caButton.addEventListener('click', (e) => {
       e.preventDefault();
 
-      const textToCopy = "0x7741253d2e8c0b05bf0cabf2bf175c91180c474a";
+      const textToCopy = "0xcomingsoon";
 
       // Try using the Clipboard API first
       if (navigator.clipboard && window.isSecureContext) {
@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', function() {
         caButton.href = "#";
 
         // Ensure text is set
-        caButton.textContent = "0x7741253d2e8c0b05bf0cabf2bf175c91180c474a";
+        caButton.textContent = "0xcomingsoon";
       }
 
       // Ensure ambulance is properly sized on mobile
@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', function() {
         caButton.href = "#";
 
         // Ensure text is set
-        caButton.textContent = "0x7741253d2e8c0b05bf0cabf2bf175c91180c474a";
+        caButton.textContent = "0xcomingsoon";
       }
 
       // Ensure ambulance is properly sized on desktop

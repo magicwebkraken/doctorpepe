@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Create tokenomics details
   const details = [
-    { label: 'Supply', value: '1B $REVIVAL' },
+    { label: 'Supply', value: '1B $DRPEPE' },
     { label: 'Tax', value: '0/0' },
     { label: 'Contract', value: 'Renounced' },
     { label: 'LP', value: 'Burnt' }

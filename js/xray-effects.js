@@ -156,10 +156,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Add placeholder text to the popup
   popupContent.innerHTML = `
-    <h2 style="color: white; margin-top: 0; text-align: center; font-family: 'Courier New', monospace; letter-spacing: 2px; text-shadow: 0 0 5px rgba(33,150,243,0.7);">REVIVAL</h2>
-    <p>Dr. Pepe has identified critical weaknesses in the Ethereum ecosystem that require immediate intervention. The $ER token has been engineered as a specialized treatment protocol to revitalize and strengthen the ETH network.</p>
+    <h2 style="color: white; margin-top: 0; text-align: center; font-family: 'Courier New', monospace; letter-spacing: 2px; text-shadow: 0 0 5px rgba(33,150,243,0.7);">DRPEPE</h2>
+    <p>Dr. Pepe has identified critical weaknesses in the Ethereum ecosystem that require immediate intervention. The $DRPEPE token has been engineered as a specialized treatment protocol to revitalize and strengthen the ETH network.</p>
     <p>Our diagnostic scans have detected multiple anomalies in the current market structure. Dr. Pepe's revolutionary approach combines advanced tokenomics with community-driven healing mechanisms.</p>
-    <p>The $ER token will be administered as a direct treatment to revive ETH and restore balance to the ecosystem. Prepare for the revival - treatment commences soon.</p>
+    <p>The $DRPEPE token will be administered as a direct treatment to revive ETH and restore balance to the ecosystem. Prepare for the DRPEPE - treatment commences soon.</p>
   `;
 
   // Add close button

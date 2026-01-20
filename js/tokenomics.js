@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { label: 'Supply', value: '1B $DRPEPE' },
     { label: 'Tax', value: '0/0' },
     { label: 'Contract', value: 'Renounced' },
-    { label: 'LP', value: 'Burnt' }
+    { label: 'LP', value: 'LOCKED' }
   ];
   
   // Add keyframes for the cardiograph animation

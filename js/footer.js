@@ -108,11 +108,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const socialButtons = [
     {
       name: 'TELEGRAM',
-      url: 'https://t.me/Doctorpepe_eth'
+      url: 'https://t.me/drpepeoneth'
     },
     {
       name: 'X',
-      url: 'https://x.com/Doctorpepe_eth'
+      url: 'https://x.com/drpepeoneth'
     },
     {
       name: 'DEXTOOLS',
